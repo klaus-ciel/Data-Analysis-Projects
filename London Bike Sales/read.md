@@ -1,1 +1,1 @@
-Welcome to the London Bike Sales Analysis project repository! This repository contains all the materials and resources used for analyzing bike sales data in London. The project includes data cleaning, exploratory data analysis, visualization, and insights derived from the data.
+Welcome to the London Bike Sales Analysis project repository! This repository contains all the materials and resources used for analyzing London Bike Sales Data. The project includes data cleaning, exploratory data analysis and visualization.
