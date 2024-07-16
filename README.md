@@ -24,4 +24,18 @@ Tools Used :
 + kaggle library
 + zipfile library
 + Tableau Desktop
+
+## [Word Frequency in Moby Dick Novel](https://github.com/klaus-ciel/Data-Analysis-Projects/tree/main/Word%20Frequency%20in%20Moby%20Dick%20Novel)
+  + In this data analysis project,
+  + Analyzed the word frequency distribution in the classic novel "Moby Dick" using Python and natural language processing (NLP) techniques.
+  + Utilized Python libraries such as NLTK and pandas to perform tokenization, stemming, and frequency calculations.
+  + Visualized word frequency data through bar charts and word clouds to identify the most commonly used words and their significance.
+  + Presented findings in a comprehensive report, highlighting key patterns and insights derived from the textual analysis.
+
+Tools Used :
++ Jupyter Notebook
++ Python
++ Pandas Library
++ Natural Language Processing toolkit
++ Matplotlib Library
     
